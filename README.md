@@ -1,7 +1,7 @@
 
-# Random Password Generator
+# Drawing App
 
-Javascript Project - 1 - Random Password Generator - https://rajat-cdev.github.io/password-generator-js-01/
+Javascript Project - 2 - Drawing App - https://rajat-cdev.github.io/drawing-app-js-02/
 
 
 
